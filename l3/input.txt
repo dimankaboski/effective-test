@@ -1,0 +1,24 @@
+Rectangle: a=69, b=95
+Pyramid: a=15, b=18
+Circle: a=80
+Circle: a=13
+Rectangle: a=32, b=38
+Circle: a=90
+Pyramid: a=12, b=25
+Pyramid: a=18, b=17
+Pyramid: a=16, b=18
+Rectangle: a=46, b=19
+Circle: a=33
+Rectangle: a=40, b=38
+Pyramid: a=22, b=18
+Pyramid: a=11, b=18
+Rectangle: a=45, b=29
+Circle: a=31
+Pyramid: a=14, b=18
+Rectangle: a=67, b=17
+Circle: a=95
+Rectangle: a=32, b=95
+Circle: a=23
+Rectangle: a=77, b=12
+Pyramid: a=10, b=15
+Pyramid: a=20, b=17

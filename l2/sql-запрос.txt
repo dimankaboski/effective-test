@@ -1,0 +1,3 @@
+¬ывод авторов, написавших меньше 7 книг:
+
+SELECT * from (SELECT a.name, COUNT(*) as bc FROM books_authors as b, authors as a WHERE b.id_authors = a.id GROUP BY a.name) as results WHERE bc < 7
